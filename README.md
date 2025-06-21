@@ -47,15 +47,6 @@ I’m a passionate and driven **Computer Science undergraduate** at Rajkiya Engi
 ![Time Management](https://img.shields.io/badge/Time%20Management-FF8C00?style=flat&logo=clockify)
 
 
-
-
-
-
-
-🔐 Currently working on:
-- Research paper on **Image Encryption using 3DNA Encoding & 5D Chaotic Logistic Map**
-- Preparation for **GATE 2025**
-
 ---
 
 ## 📊 GitHub Stats
