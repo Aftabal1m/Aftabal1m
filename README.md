@@ -1,12 +1,14 @@
 # Hi, I'm Aftab Alam 👋
+## 🧑‍🎓 About Me
 
-💻 I'm a Computer Science student passionate about AI, security, and software development.
+I’m a passionate and driven **Computer Science undergraduate** at Rajkiya Engineering College Kannauj (2022–2026), with hands-on experience in **image encryption** and **machine learning-based intrusion detection systems**. I'm an active subject expert on **Chegg** and **MathMaster**, with over a year of freelancing experience. I love turning real-world problems into code and data-driven solutions!
 
-🌱 Currently working on: `Image Encryption using Chaotic Maps + DNA Encoding`
+🚀 Fun Fact: I believe in *code, coffee, and curiosity.*
+# 👨‍💻 Aftab Alam
+📧 [aftabalam995232@gmail.com](mailto:aftabalam995232@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aftaba1am/) | [GitHub](https://www.github.com/Aftabal1m)
 
-📚 GATE 2025 Aspirant | Exploring Blockchain & Network Security
-
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+---
 
 🧰 Tech Stack:
 
@@ -46,18 +48,9 @@
 
 
 
-🚀 Fun Fact: I believe in *code, coffee, and curiosity.*
-# 👨‍💻 Aftab Alam
 
-📞 (+91) 9793995232  
-📧 [aftabalam995232@gmail.com](mailto:aftabalam995232@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aftaba1am/) | [GitHub](https://www.github.com/Aftabal1m)
 
----
 
-## 🧑‍🎓 About Me
-
-I’m a passionate and driven **Computer Science undergraduate** at Rajkiya Engineering College Kannauj (2022–2026), with hands-on experience in **image encryption** and **machine learning-based intrusion detection systems**. I'm an active subject expert on **Chegg** and **MathMaster**, with over a year of freelancing experience. I love turning real-world problems into code and data-driven solutions!
 
 🔐 Currently working on:
 - Research paper on **Image Encryption using 3DNA Encoding & 5D Chaotic Logistic Map**
